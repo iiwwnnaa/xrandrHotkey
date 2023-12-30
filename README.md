@@ -1,5 +1,5 @@
 EZ brightness control with xrandrHotkey<br>
-You can control xrandr brightness to Hotkey
+You can control brightness vis hotkey
 
 Default settings<br>
 Increase brightness : Ctrl+Shift+F4<br>
